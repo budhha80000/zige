@@ -37,8 +37,8 @@
 1. **克隆项目**
 
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/budhha80000/zige.git
+   cd zige
    ```
 
 2. **直接打开**
