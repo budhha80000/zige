@@ -1,4 +1,4 @@
-# zige
+# 字格 zige by 饸饹随笔
 轻量 Markdown 编辑器，支持一键导出 PDF、HTML 与图片格式
 
 # Markdown 编辑器项目说明
