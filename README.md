@@ -28,6 +28,8 @@
   - 优化了字体选择器在 iOS 上的表现
   - 响应式设计适配不同屏幕尺寸
 
+![示例01](https://raw.githubusercontent.com/budhha80000/zige/refs/heads/main/images/demo01.png)    
+
 ## 安装指南
 
 ### 本地安装
