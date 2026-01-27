@@ -27,7 +27,8 @@
   - 支持触摸事件
   - 优化了字体选择器在 iOS 上的表现
   - 响应式设计适配不同屏幕尺寸
- 
+
+**示例01**
 <center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo01.png" alt="示例01"></center>
 
 ## 安装指南
@@ -411,4 +412,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - 作者：蛮菩萨
 - 驱动：囫囵拓扑
 
+**示例02**
 <center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo02.png" alt="示例02"></center>
