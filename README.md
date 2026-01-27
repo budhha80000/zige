@@ -408,7 +408,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## 联系方式
 
-- 作者：饸饹随笔
+- 作者：蛮菩萨
 - 驱动：囫囵拓扑
 
 ![示例02](https://raw.githubusercontent.com/budhha80000/zige/refs/heads/main/images/demo02.png)
