@@ -28,7 +28,7 @@
   - 优化了字体选择器在 iOS 上的表现
   - 响应式设计适配不同屏幕尺寸
  
-<div style="text-align:center">![示例01](https://github.com/budhha80000/zige/blob/main/assets/images/demo01.png) </div>
+<center>需要居中的内容</center>
  
 
 ![示例01](https://github.com/budhha80000/zige/blob/main/assets/images/demo01.png) 
