@@ -280,6 +280,12 @@
 
 ### 字体设置
 
+所有字体（后缀为ttf-truetype fonts/OTF-opentype fonts）请放在项目的子目录 assets/fonts 下。
+以下字体下载地址，自由字体：
+```URL
+https://ziyouziti.com
+```
+
 1. 使用字体下拉菜单选择字体：
    - 思源黑体（默认）
    - 思源宋体
