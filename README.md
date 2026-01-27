@@ -282,7 +282,7 @@
 
 ### 字体设置
 
-所有字体（后缀为ttf-truetype fonts/OTF-opentype fonts）请放在项目的子目录 assets/fonts 下。
+所有字体如果显示不正常（后缀为ttf-truetype fonts/OTF-opentype fonts）请下载后放在项目的子目录 assets/fonts 下。
 以下字体下载地址，自由字体：
 ```URL
 https://ziyouziti.com
