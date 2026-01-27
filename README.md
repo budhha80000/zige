@@ -30,9 +30,6 @@
  
 <center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo01.png" alt="示例01"></center>
 
-![示例01](https://github.com/budhha80000/zige/blob/main/assets/images/demo01.png) 
-  
-
 ## 安装指南
 
 ### 本地安装
@@ -414,4 +411,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - 作者：蛮菩萨
 - 驱动：囫囵拓扑
 
-<center>![示例02](https://github.com/budhha80000/zige/blob/main/assets/images/demo02.png)</center>
+<center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo02.png" alt="示例02"></center>
