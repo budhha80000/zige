@@ -1843,31 +1843,26 @@ class MarkdownEditor {
         let width;
         let contentPadding;
         let footerMarginTop;
-        let minHeight;
         switch(deviceType) {
             case 'desktop':
                 width = 1024;
                 contentPadding = '40px 40px 20px'; // 增加顶部和左右边距
                 footerMarginTop = '30px';
-                minHeight = 600;
                 break;
             case 'tablet':
                 width = 768;
                 contentPadding = '32px 32px 20px'; // 增加顶部和左右边距
                 footerMarginTop = '25px';
-                minHeight = 500;
                 break;
             case 'phone':
                 width = 375;
                 contentPadding = '50px 24px 20px'; // 增加顶部边距避开灵动岛，增加左右边距
                 footerMarginTop = '20px';
-                minHeight = 450;
                 break;
             default:
                 width = 1024;
                 contentPadding = '40px 40px 20px';
                 footerMarginTop = '30px';
-                minHeight = 600;
         }
         
         // 如果没有传入背景和文字颜色，则获取当前选中的值
@@ -2045,9 +2040,7 @@ class MarkdownEditor {
         
         // 为内容添加适当的底部空间，确保内容和页脚之间有足够的距离
         const contentSpaceDiv = document.createElement('div');
-        // 根据内容长度动态调整底部空间
-        const spaceHeight = Math.max(30, Math.min(80, 100 - Math.min(markdown.length, 100)));
-        contentSpaceDiv.style.height = `${spaceHeight}px`;
+        contentSpaceDiv.style.height = '15px';
         tempContainer.appendChild(contentSpaceDiv);
         
         // 添加底部标识
@@ -2079,10 +2072,7 @@ class MarkdownEditor {
         });
         
         // 动态计算实际内容高度，确保捕获完整内容
-        let actualHeight = tempContainer.scrollHeight;
-        
-        // 确保高度足够大，避免内容被截断
-        actualHeight = Math.max(actualHeight, minHeight); // 根据设备类型设置不同的最小高度
+        const actualHeight = tempContainer.scrollHeight;
         
         // 使用html2canvas生成图片，添加详细配置以确保捕获完整内容
         const canvas = await html2canvas(tempContainer, {
