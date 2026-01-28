@@ -27,8 +27,7 @@
   - 支持触摸事件
   - 优化了字体选择器在 iOS 上的表现
   - 响应式设计适配不同屏幕尺寸
-
-**示例01**
+ 
 <center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo01.png" alt="示例01"></center>
 
 ## 安装指南
@@ -308,6 +307,8 @@ https://ziyouziti.com
 
 1. **导出为 HTML**：点击工具栏中的 "导出 HTML" 按钮
 2. **导出为 PNG**：点击 "图片生成设置" 按钮，配置相关选项后生成图片
+   - 设备类型：手机、平板、桌面
+   - 配色方案：默认、零度炫黑、灰度象限、三色棱镜、霜林空境、海雾肌理、冷调青霭、莫兰迪序章、金樨暖棠、酪绿栖森、澄空凝澜、朱华映吉
 
 ### 文件操作
 
@@ -412,5 +413,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - 作者：蛮菩萨
 - 驱动：囫囵拓扑
 
-**示例02**
-<center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo02.png" alt="示例02"></center>
+<center><img src="https
