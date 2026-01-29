@@ -29,6 +29,7 @@
   - 响应式设计适配不同屏幕尺寸
  
 <center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo01.png" alt="示例01"></center>
+<center><img src="https://github.com/budhha80000/zige/blob/main/assets/images/demo02.png" alt="示例02"></center>
 
 ## 安装指南
 
